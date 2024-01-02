@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Adidas Originals Samba",
+    "brand": "Adidas Originals",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals Gazelle",
+    "brand": "Adidas Originals",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals Campus '00s",
+    "brand": "Adidas Originals",
+    "price": "110",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals Superstar",
+    "brand": "Adidas Originals",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals Stan Smith",
+    "brand": "Adidas Originals",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals NMD_R1",
+    "brand": "Adidas Originals",
+    "price": "150",
+    "featured": false
+  },
+  {
+    "name": "Adidas Originals Forum Low",
+    "brand": "Adidas Originals",
+    "price": "110",
+    "featured": false
+  },
+  {
+    "name": "New Balance 530",
+    "brand": "New Balance",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "New Balance 1906",
+    "brand": "New Balance",
+    "price": "155",
+    "featured": false
+  },
+  {
+    "name": "New Balance 574",
+    "brand": "New Balance",
+    "price": "90",
+    "featured": false
+  },
+  {
+    "name": "New Balance 9060",
+    "brand": "New Balance",
+    "price": "150",
+    "featured": false
+  },
+  {
+    "name": "New Balance 327",
+    "brand": "New Balance",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "New Balance 550",
+    "brand": "New Balance",
+    "price": "110",
+    "featured": false
+  },
+  {
+    "name": "Nike Air Force 1 '07",
+    "brand": "Nike",
+    "price": "110",
+    "featured": false
+  },
+  {
+    "name": "Nike Air Force 1 Shadow",
+    "brand": "Nike",
+    "price": "135",
+    "featured": false
+  },
+  {
+    "name": "Nike Dunk Low",
+    "brand": "Nike",
+    "price": "115",
+    "featured": false
+  },
+  {
+    "name": "Nike Vomero 5",
+    "brand": "Nike",
+    "price": "160",
+    "featured": false
+  },
+  {
+    "name": "Mexico 66 SD",
+    "brand": "Onitsuka Tiger",
+    "price": "160",
+    "featured": false
+  },
+  {
+    "name": "Mexico 66 Deluxe",
+    "brand": "Onitsuka Tiger",
+    "price": "340",
+    "featured": false
+  },
+  {
+    "name": "Mexico 66 Cactful",
+    "brand": "Onitsuka Tiger",
+    "price": "140",
+    "featured": false
+  },
+  {
+    "name": "Serrano",
+    "brand": "Onitsuka Tiger",
+    "price": "100",
+    "featured": false
+  },
+  {
+    "name": "X-Caliber",
+    "brand": "Onitsuka Tiger",
+    "price": "160",
+    "featured": false
+  }
+]
